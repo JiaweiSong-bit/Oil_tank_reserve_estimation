@@ -4,7 +4,7 @@ ps: Currently, only the code and dataset for oil tank object detection have been
 ## Introduction
 
 Oil tank object detection is implemented based on Cascade R\-CNN \+ Swin Transformer, which is used for oil tank identification and extraction from remote sensing images\.
-
+![Oil Tank Example](img/show.png)
 ## Environment Dependencies
 
 - Python 3\.7\+
