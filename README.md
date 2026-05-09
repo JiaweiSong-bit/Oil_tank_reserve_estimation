@@ -1,4 +1,5 @@
 # Oil Tank Detection
+ps: Currently, only the code and dataset for oil tank object detection have been open-sourced. The detection model weights, as well as the code and data for subsequent oil tank storage estimation and futures price forecasting, will be released after the acceptance of the paper.
 
 ## Introduction
 
