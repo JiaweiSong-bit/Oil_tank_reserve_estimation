@@ -1,4 +1,4 @@
-# Oil Tank Detection README
+# Oil Tank Detection
 
 ## Introduction
 
