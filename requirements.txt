@@ -1,0 +1,15 @@
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+mmcv==2.0.1
+mmdet==3.3.0
+mmengine==0.10.4
+opencv-python==4.9.0.80
+Pillow==9.3.0
+numpy==1.23.5
+scipy==1.10.1
+matplotlib==3.7.2
+pycpd==2.0.0
+pandas==2.0.3
+pycocotools==2.0.7
+PyYAML==6.0.1
+addict==2.4.0
