@@ -16,9 +16,7 @@ Oil tank object detection is implemented based on Cascade R\-CNN \+ Swin Transfo
 - MMCV \+ MMDetection
 
 ```bash
-pip install mmcv-full==1.6.0 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.10/index.html
-pip install mmdet==2.28.2
-pip install opencv-python numpy pandas
+pip install -r requirements.txt
 ```
 
 ---
